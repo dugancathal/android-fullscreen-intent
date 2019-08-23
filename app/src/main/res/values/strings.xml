@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Full Screen Intent</string>
+    <string name="time_to_foreground">Time to foreground: %1$ds</string>
 </resources>
